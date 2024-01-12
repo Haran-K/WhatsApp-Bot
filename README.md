@@ -4,7 +4,7 @@ This allow user to send number of messages to saved whatsapp contact/contacts.
 
 ### Step1: Install Selenium
 
-```vinay@vinay:~$pip install selenium ```
+```$pip install selenium ```
 
 ### Step 2: Download Chrome Webdrive 
 (Although chromedrive is already is in repository)
@@ -13,6 +13,7 @@ This allow user to send number of messages to saved whatsapp contact/contacts.
 
 
 ### Step 3: Clone this repository
+[Clone](https://github.com/Haran-K/WhatsApp-Bot.git)
 
 
 ### Step 4: Open whatsapp_sendmessage.py and change the target name and frequency to the name of your contact 
@@ -27,9 +28,6 @@ This allow user to send number of messages to saved whatsapp contact/contacts.
 
 
 
-**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/mmistakes) to continue developing and maintaining it.**
-
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
 
 
-[Vinay Somawat](https://vinaysomawat.github.io/) :heart:
+
